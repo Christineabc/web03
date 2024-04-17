@@ -1,0 +1,23 @@
+nav{
+    background-color: #312f2f;
+    ul{
+        display: flex;
+        padding-left: 1rem;
+    li{
+        padding:0.5rem 0.75rem;
+    a{
+        text-decoration: none;
+        color:#c4c4c4;
+        font-size: 1.25rem;
+
+        &:hover{
+            color:yellow;
+        }
+    i{
+        font-size: 1.5rem;
+    }    
+    }
+    
+    }
+    }
+}
